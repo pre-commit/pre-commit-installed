@@ -29,7 +29,7 @@ class install(_install):
             if not subprocess.call(cmd, cwd=pwd):
                 return
         else:
-            raise SystemExit('wellp, I tried ¯\__(ツ)__/¯')
+            raise SystemExit(r'wellp, I tried ¯\__(ツ)__/¯')
 
 
 try:
