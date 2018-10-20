@@ -48,7 +48,7 @@ setup(
     long_description='this is a terrible hack, probably do not use in prod',
     long_description_content_type='text/markdown',
     url='https://github.com/pre-commit/pre-commit-installed',
-    version='0.0.0',
+    version='0.0.1',
     author='Anthony Sottile',
     author_email='asottile@umich.edu',
     classifiers=[
